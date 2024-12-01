@@ -1,11 +1,11 @@
 # TryAR
 ZEN&CIS Challenge Sollution;
 
-download and unzip the reoository;
+download and unzip the repository;
 
 open terminal;
 
-cd to the repository;
+cd path_to/TryAR;
 
 $npm run dev;
 

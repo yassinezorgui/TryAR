@@ -1,12 +1,12 @@
 # TryAR
-ZEN&CIS Challenge Sollution;
+ZEN&CIS Challenge, Augmented Reality virtual try-on Solution;
 
-download and unzip the repository;
+Download and unzip the repository;
 
-open terminal;
+Open terminal;
 
 cd path_to/TryAR;
 
 $npm run dev;
 
-enjoy the AR white Tshirt on the web;
+Enjoy the AR white Tshirt on your browser;
